@@ -1,0 +1,35 @@
+depto_PK,codigo_depto,nombre_depto
+0,05,Antioquia
+1,08,Atlántico
+2,11,Bogotá
+3,13,Bolívar
+4,15,Boyacá
+5,17,Caldas
+6,18,Caquetá
+7,19,Cauca
+8,20,Cesar
+9,23,Córdoba
+10,25,Cundinamarca
+11,27,Chocó
+12,41,Huila
+13,44,La Guajira
+14,47,Magdalena
+15,50,Meta
+16,52,Nariño
+17,54,Norte de Santander
+18,63,Quindío
+19,66,Risaralda
+20,68,Santander
+21,70,Sucre
+22,73,Tolima
+23,76,Valle del Cauca
+24,81,Arauca
+25,85,Casanare
+26,86,Putumayo
+27,88,Archipiélago de San Andrés y Providencia
+28,91,Amazonas
+29,94,Guainía
+30,95,Guaviare
+31,97,Vaupés
+32,99,Vichada
+33,Extranjeros,Extranjeros
